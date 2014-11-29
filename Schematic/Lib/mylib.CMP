@@ -1,0 +1,14 @@
+Component   : MSS1278CUST
+PCB Library : mylib.PcbLib
+Date        : 2014/9/16
+Time        : 8:54:49
+
+
+
+Dimension : 14.122 x 12.7 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          6        0       4        0
+--------------------------------------------------------------------
+ Total                       0          6        0       4        0

@@ -1,0 +1,18 @@
+---- gsm_get_balance Matches (17 in 3 files) ----
+Gsm.c (w5500_stm32f103\work\app\source):int gsm_get_balance(u8* l_text)
+Gsm.c (w5500_stm32f103\work\app\source):	gsm_get_balance();
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):main &rArr; gsm_test &rArr; gsm_get_balance &rArr; gsm_read_text &rArr; parse_text_content &rArr; __2printf
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<BR>[Called By]<UL><LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<P><STRONG><a name="[df]"></a>gsm_get_balance</STRONG> (Thumb, 364 bytes, Stack size 264 bytes, gsm.o(.text))
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<BR><BR>[Stack]<UL><LI>Max Depth = 912<LI>Call Chain = gsm_get_balance &rArr; gsm_read_text &rArr; parse_text_content &rArr; __2printf
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<BR><BR>[Stack]<UL><LI>Max Depth = 920<LI>Call Chain = gsm_test &rArr; gsm_get_balance &rArr; gsm_read_text &rArr; parse_text_content &rArr; __2printf
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<BR><BR>[Stack]<UL><LI>Max Depth = 928<LI>Call Chain = main &rArr; gsm_test &rArr; gsm_get_balance &rArr; gsm_read_text &rArr; parse_text_content &rArr; __2printf
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+LOOPBACK-KEIL.htm (w5500_stm32f103\work\app):<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;gsm_get_balance
+Loopback.c (w5500_stm32f103\work\app\source\apps):	if(gsm_get_balance(l_text) == OK)
